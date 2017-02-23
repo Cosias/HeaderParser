@@ -6,7 +6,7 @@
 ## Example Output
 
   ```
-{"ipAddress":"74.88.51.17","language":"en-US","software":"Windows NT 10.0; Win64; x64"}
+{"ipAddress":"##.##.##.##","language":"en-US","software":"Windows NT 10.0; Win64; x64"}
   ```
 ### Live Site
    [https://vast-ocean-66600.herokuapp.com/](https://vast-ocean-66600.herokuapp.com/)
